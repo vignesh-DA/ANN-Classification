@@ -1,7 +1,10 @@
-tensorflow>=2.16.1
+tensorflow>=2.16.1,<2.21.0
+protobuf<4.0.0
+streamlit>=1.28.0
 pandas
 numpy
 scikit-learn
 tensorboard
-streamlit
 matplotlib
+keras
+h5py
